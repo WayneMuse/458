@@ -4,8 +4,7 @@
 
 This repository contains detailed analyses of multiple malware samples as part of **CPSC 458-03 Fall 2024: Malware Analysis**. Each project follows a structured methodology, utilizing static analysis, dynamic analysis, reverse engineering, and behavior monitoring to dissect and understand malware behavior. The projects focus on unpacking, debugging, and analyzing malicious executables to identify Indicators of Compromise, persistence mechanisms, and network activity.
 
-##**Projects & Exercises**
-
+## **Projects & Exercises**
 ### **1. Projects**
 - **Project 1: PE32+ Executable Analysis**
   - Used **Remnux, Die, PEStudio, and ProcMon** for static and dynamic analysis.
